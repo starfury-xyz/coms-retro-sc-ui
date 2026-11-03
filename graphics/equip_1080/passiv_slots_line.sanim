@@ -1,0 +1,110 @@
+﻿source_file "Y:/art/source/ui/graphics/equip/modul_1080.ma"
+//by sergey_mitryaev
+//at Wed Dec 11 13:49:51 2019
+
+base_res 1920 1080
+
+animations 1
+{
+	anim idle
+	{
+		mode looped
+		cycle_time 1
+	}
+}
+
+total_elements 6
+
+objects 5
+{
+	object pas_slot_1
+	{
+		defaults
+		{
+			pos 143 53
+			opacity 255
+			color 0xffffffff
+			size 62 42
+			effect "ui\graphics\equip_1080\passiv_icon_main"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object self
+	{
+		defaults
+		{
+			pos 0 -0
+			opacity 255
+			color 0xffffffff
+			size 218 120
+			effect ""
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object pas_slot_2
+	{
+		defaults
+		{
+			pos 77 53
+			opacity 255
+			color 0xffffffff
+			size 62 42
+			effect "ui\graphics\equip_1080\passiv_icon_main"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object pas_slot_3
+	{
+		defaults
+		{
+			pos 11 53
+			opacity 255
+			color 0xffffffff
+			size 62 42
+			effect "ui\graphics\equip_1080\passiv_icon_main"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object ship_name9
+	{
+		defaults
+		{
+			pos 0 12
+			opacity 255
+			color 0xffd1f0ff
+			size 218 40
+			effect ""
+			alignment "CM"
+			sampleText "Компьютер"
+			font "Medium"
+		}
+		visible_on idle
+	}
+}
+
+sprites 1
+{
+	total_vertices 4
+
+	sprite objectName405
+	{
+		defaults
+		{
+			rows 2
+			cols 2
+			texture "ui/textures/interation_2/ui_text_1.tif"
+			vertices
+			{
+				0 43	218 43	0 46	218 46	
+				0.759766 0.882813	0.779297 0.882813	0.759766 0.902344	0.779297 0.902344	
+				0x33ffffff	0x33ffffff	0x33ffffff	0x33ffffff	
+			}
+		}
+		visible_on idle
+	}
+}
+

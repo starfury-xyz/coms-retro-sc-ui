@@ -1,0 +1,99 @@
+﻿source_file "Y:/art/source/ui/graphics/equip/modul_1080.ma"
+//by sergey_mitryaev
+//at Wed Dec 11 13:48:30 2019
+
+base_res 1920 1080
+
+animations 1
+{
+	anim idle
+	{
+		mode looped
+		cycle_time 1
+	}
+}
+
+total_elements 6
+
+objects 6
+{
+	object self
+	{
+		defaults
+		{
+			pos 0 -0
+			opacity 255
+			color 0xffffffff
+			size 218 600
+			effect ""
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object slots_line_1
+	{
+		defaults
+		{
+			pos 0 -0
+			opacity 255
+			color 0xffffffff
+			size 218 120
+			effect "ui\graphics\equip_1080\passiv_slots_line"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object slots_line_2
+	{
+		defaults
+		{
+			pos 222 0
+			opacity 255
+			color 0xffffffff
+			size 218 120
+			effect "ui\graphics\equip_1080\passiv_slots_line"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object slots_line_3
+	{
+		defaults
+		{
+			pos 444 0
+			opacity 255
+			color 0xffffffff
+			size 218 120
+			effect "ui\graphics\equip_1080\passiv_slots_line"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object slots_line_4
+	{
+		defaults
+		{
+			pos 666 0
+			opacity 255
+			color 0xffffffff
+			size 218 120
+			effect "ui\graphics\equip_1080\passiv_slots_line"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object slots_line_5
+	{
+		defaults
+		{
+			pos 888 0
+			opacity 255
+			color 0xffffffff
+			size 218 120
+			effect "ui\graphics\equip_1080\passiv_slots_line"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+}
+

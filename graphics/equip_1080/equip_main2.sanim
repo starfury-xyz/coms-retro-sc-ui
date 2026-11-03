@@ -1,0 +1,283 @@
+﻿source_file "Y:/art/source/ui/graphics/equip/modul_1080.ma"
+//by sergey_mitryaev
+//at Wed Dec 11 14:45:39 2019
+
+base_res 1920 1080
+
+animations 1
+{
+	anim idle
+	{
+		mode looped
+		cycle_time 20
+	}
+}
+
+total_elements 18
+
+objects 18
+{
+	object character_main
+	{
+		defaults
+		{
+			anchor "LT"
+			pos 8.26901 66.1491
+			opacity 255
+			color 0xffffffff
+			size 320 160
+			effect "ui\graphics\equip\skill_character_main"
+			alignment "LT"
+			font "Tiny"
+		}
+		visible_on idle
+	}
+	object value
+	{
+		defaults
+		{
+			anchor "TC"
+			pos 815.363 81.4906
+			opacity 255
+			color 0xffffffff
+			size 300 20
+			effect ""
+			alignment "CM"
+			sampleText "STRIX fgfkg oowip kfkff kfkffkfk"
+			font "Small"
+		}
+		visible_on idle
+	}
+	object left_slot
+	{
+		defaults
+		{
+			anchor "RT"
+			pos 1604 330.657
+			opacity 255
+			color 0xffffffff
+			size 312 480
+			effect "ui\graphics\equip\left_slot_main"
+			alignment "CM"
+			font "Small"
+		}
+		visible_on idle
+	}
+	object equip_auto
+	{
+		defaults
+		{
+			anchor "RT"
+			pos 1066.05 110.252
+			opacity 255
+			color 0xffffffff
+			size 220 70
+			effect "ui\graphics\login_screen\chek_box"
+			alignment "CM"
+			font "VerySmall"
+		}
+		visible_on idle
+	}
+	object equip_auto_repair
+	{
+		defaults
+		{
+			anchor "RT"
+			pos 1066.05 131.79
+			opacity 255
+			color 0xffffffff
+			size 220 70
+			effect "ui\graphics\login_screen\chek_box"
+			alignment "CM"
+			font "VerySmall"
+		}
+		visible_on idle
+	}
+	object modules
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 607 772
+			opacity 255
+			color 0xffffffff
+			size 718 300
+			effect "ui\graphics\equip\equip_modules_3_main"
+			alignment "CM"
+			font "VerySmall"
+		}
+		visible_on idle
+	}
+	object lvlup_ship_main
+	{
+		defaults
+		{
+			anchor "TC"
+			pos 843 127
+			opacity 255
+			color 0xffffffff
+			size 248 100
+			effect "ui\graphics\hangar\levelup_ship_main"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object custom_ship
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 889 765
+			opacity 255
+			color 0xffffffff
+			size 150 70
+			effect "ui\graphics\hangar\custom_ship_main"
+			alignment "CM"
+			font "Small"
+		}
+		visible_on idle
+	}
+	object modules_2
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 607 841
+			opacity 255
+			color 0xffffffff
+			size 718 300
+			effect "ui\graphics\equip\equip_modules_3_main"
+			alignment "CM"
+			font "VerySmall"
+		}
+		visible_on idle
+	}
+	object preset
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 738 251
+			opacity 255
+			color 0xffffffff
+			size 20 20
+			effect "ui\graphics\login_screen\preset_main_18"
+			alignment "CM"
+			font "VerySmall"
+		}
+		visible_on idle
+	}
+	object ship_slots
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 25 400
+			opacity 255
+			color 0xffffffff
+			size 580 90
+			effect "ui\graphics\equip_1080\ship_slots_main"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object ship_slots2
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 628 1022
+			opacity 255
+			color 0xffffffff
+			size 660 46
+			effect "ui\graphics\equip_1080\ship_slots_main_2"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object crew_
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 79 947
+			opacity 255
+			color 0xffffffff
+			size 154 46
+			effect "ui\graphics\hangar_iter_3\b_crew_btn"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object crew_1
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 705 522
+			opacity 255
+			color 0xffffffff
+			size 150 32
+			effect "ui\graphics\hangar_iter_3\b_eq_btn"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object ship_prop
+	{
+		defaults
+		{
+			pos 0 111
+			opacity 255
+			color 0xffffffff
+			size 320 160
+			effect "ui\graphics\equip_1080\ship_prop"
+			alignment "LT"
+			font "Tiny"
+		}
+		visible_on idle
+	}
+	object passiv_slots
+	{
+		defaults
+		{
+			anchor "RB"
+			pos 411 800
+			opacity 255
+			color 0xffffffff
+			size 218 600
+			effect "ui\graphics\equip_1080\passiv_slots_main"
+			alignment "RM"
+		}
+		visible_on idle
+	}
+	object modules_3
+	{
+		defaults
+		{
+			anchor "BC"
+			pos 463 920
+			opacity 255
+			color 0xffffffff
+			size 978 176
+			effect "ui\graphics\equip_1080\modules_main"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object agen
+	{
+		defaults
+		{
+			anchor "LB"
+			pos 17 -799
+			opacity 255
+			color 0xffffffff
+			size 192 86
+			effect "ui\graphics\equip_1080\agen_slot_main"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+}
+

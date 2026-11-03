@@ -1,0 +1,5341 @@
+Texture
+{
+	name		"ItemSubtype_FocusedRay"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"255 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReflectorResonance"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BindingShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 926 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WolfRun"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"465 252 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BattleShield"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"212 449 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DisableWeaponFireRate"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"338 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HackWeapon"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"339 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Blind"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"171 2 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ECMCommon"
+	fileName	"ui\textures\ico\active_mod_icon_6"
+	rect		"1043 139 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnlargeActiveCooldown"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"44 129 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HackRocket"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 844 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BeaconActiveSilence"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"339 169 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BlackBomb"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"856 453 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HackEntity"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"253 145 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FuelEmissionsScout"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"733 453 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScoutReturn"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"339 169 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TeamGuide"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"255 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpyDroneShieldThief"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HealEnergyBanHaze"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"423 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HealBanHaze"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"423 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScoutChameleonCommon"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"297 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FakeShipsUpgraded"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"252 103 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpyBeaconAnalyse"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 212 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DiverTransparency"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"297 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaTorpedoGenerator"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"464 169 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HardRadiation"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"2 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Backstab"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"255 2 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RadiationCloud"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"2 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyDiversion"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"2 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SaveJump"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"170 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ChaosSpawner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RadiationWeapon"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 254 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FoxEscapeFromBattle"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KatanaMineLayer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 255 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FastShootAxe"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 2 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HerculesGust"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"255 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MacheteFury"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 2 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MacheteBox"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"339 169 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KatanaRiposte"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"129 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PrometheusPot"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"44 129 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SupportReinforce"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"2 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KatanaSPush"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"467 417 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CatConcentration"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"170 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FoxMShot"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"129 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GuidedDronFoxSlow"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Decay"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"338 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CripplingClaws"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"3 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DeimosFace"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 356 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AchillesPylum"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"297 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HerculesOrb"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"44 129 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HorrorHowl"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WolfPack"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"129 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_StunningSpurt"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"171 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DivineStorm"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"213 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldExplosion"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WarpGate"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"673 170 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldVampire"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 170 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CommandArmorResist"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"380 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Camouflage"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenFakeShips"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"776 454 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenInvulnerability"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"502 356 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartBomb"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"87 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MissileDefence"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Vortex"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"467 417 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_IsotopeHarvester"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"815 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldChargeLarge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MissileReload"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"774 124 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Shift"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 170 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ProtectiveShield"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"86 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Invulnerability"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AoeStealthDrone"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"566 249 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Javelin"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"171 286 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TachRay"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"253 271 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DestrDeadlyTrap"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"775 289 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RepairDronesLarge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveArmorBoost"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RestoringIons"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"462 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RepairDronesSmall"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Flash"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 212 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RepairDronesMedium"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Companion"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"896 454 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TargetPainter"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GravitationAnalyzer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ArmorChargeLarge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"380 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldRestoreMedium"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HunterZone"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 2 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LanceWeakness"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s5"
+	rect		"582 170 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Hook"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"211 326 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnhanceWeapon"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"378 60 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpaceSqueezer"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"379 102 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RocketRing"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 255 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MissileReflector"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 254 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Immortality"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"297 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RamCharge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EngineHack"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpikeRam"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"674 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WeaknessDetector"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1053 507 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CageTrap"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s5"
+	rect		"422 424 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NoiseSuppressor"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1050 650 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Multishot"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s5"
+	rect		"465 423 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyNullifier"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DisableWeapon"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"816 290 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DestrBeamDrone"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"567 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Overshield"
+	fileName	"ui\textures\ico\active_mod_icon_3"
+	rect		"1042 0 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_StasisGenerator"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BoostJammerAOE"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CrystalConeDrone"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"898 124 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FakeShips"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"252 103 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_G2D2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 968 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenBeacon"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"816 454 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenGravyPush"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"423 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_IonRay"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RepairRayLarge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldedTaunt"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"213 127 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldRestoreLarge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpyDrone"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TurretPlasma"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"379 313 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveBigShieldBoost"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"212 286 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Afterburner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BarrelDistractionShot"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"978 125 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BoostBan"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CommandCritAura"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"653 249 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HullResistStation"
+	fileName	"ui\textures\ico\active_mod_icon_4"
+	rect		"1041 139 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PushRay"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"211 326 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReverseThruster"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"717 43 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyVampire"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FocusedEMI"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HackSystems"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"253 145 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldLink"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"970 226 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldRayLarge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Chameleon"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CommandWeaknessAnalyzer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DestrMovementRestrictor"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"525 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EmergencyTeleporter"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"86 2 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EMPAbsorb"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"382 419 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyEmitter"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 170 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyLance"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyLanceAura"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GuidedDron"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Scream"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"222 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Screen"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"337 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GuidedDronRL"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"758 42 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SniperFastShot"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SniperOverload"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TurretThermo"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"337 313 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WebPropulsion"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GravityAnomaly"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"253 312 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CrystalHamstring"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"856 124 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldRestoreSmall"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SafeAcceleration"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"465 252 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveShieldBoostSpec"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyReflector"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"461 271 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RocketSilo"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"336 271 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Eagleeye"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 212 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveShieldBoost"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EcmJammer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FuelEmissions"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"733 453 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GrowingStar"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"856 453 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_InfraredContermeasure"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RemoteRepairDrones"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"337 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldHavoc"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 382 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpyBeacon"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 212 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TractorBeam"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"211 326 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WeaknessDrone"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 356 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AOE_EMI"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WeaponAmplifier"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HugeHullDevastator"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_UpgradedSpecial"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"926 800 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TacticalCalculation"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"968 842 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FocusedDefence"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"884 842 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WeaknessSense"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"842 884 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuperChamelion"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"758 842 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SniperDamageZone"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"423 252 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmallReverseThruster"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"717 43 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SniperDefender"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 213 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EngineAmplifier"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ExhaustZone"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"974 840 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FocusedScaner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_UfoStasis"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1130 217 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpeedInsteadShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyFlowBalancer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DronDamageMod"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PreparationAdaptation"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MultiPurposeAdaptor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ParticleExplosion"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"464 169 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MatterFlow"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1130 74 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Primary2HullRestore"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"776 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DivineSave"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1128 436 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CoupleSupport1"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1050 219 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CoupleSupport2"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1053 433 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CalibrationGrenade"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"464 169 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Jump2Dude"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"86 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RocketRedirection"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"88 252 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PositionSwap"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"774 371 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FireStealingPot"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"692 249 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WeaponSuppression"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"775 289 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SaveBack"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"610 290 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReactorSpark"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"692 371 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ActiveHunting"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TarZone"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyBurner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"630 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldRenew"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KatanaPrepare"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RangeMasterPlus"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyOptimus"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldThermoGuard"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KatanaEnergy"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 884 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PrometeusCunning"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 926 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BushidoCall"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"800 884 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ExtendedBallisticsCPU"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"979 165 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnemyAnalyzer"
+	fileName	"ui\textures\ico\passiv_mod_icon_9"
+	rect		"1051 497 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RangeMasterUnit"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MatterAbsorber"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"608 167 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_IndestructibleShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NewShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenComputerOverload"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1048 564 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpecialToDamage"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1126 0 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeatGunControl_big_1"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1052 73 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CrystallRedirect"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"975 142 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenSpeed"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"968 208 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HardCrit"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AfterShock"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"981 422 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_EmergencyShell"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"525 166 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ExtremeShieldCharge"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"567 166 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PermanentAntiRadar"
+	fileName	"ui\textures\ico\passiv_mod_icon_7"
+	rect		"1055 75 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_JerichoShld"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 926 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FocusShieldCharge"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"692 166 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpecialToArmorRestore"
+	fileName	"ui\textures\ico\passiv_mod_icon_7"
+	rect		"1055 989 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RamHull"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"968 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenArmorFocusResist"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 313 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveMembrane"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"651 166 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_UrgentCapacitorCharge"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"692 249 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ImplsDischarger"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CptrEnrgBridge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CpctrPwrRelay"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"85 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CmplxBatt"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ThermalUnlock"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"380 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnemyResistReductor"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"816 290 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Recuperator"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DurableShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ExtShld"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ResistShieldEMP"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RocketFit"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 968 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PhobosHullRestore"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ResistHullKinetic"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FastMissileRacks"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DeimosEmitter"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"381 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AutoRepairUnit"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DodgeDrive"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"87 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BoostersOverloader"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_InertialStabilizer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CoolantSystemIdle"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"609 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KatalizatorInjector"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AccelerationCoil"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 172 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CapacitorRecharging"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"630 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EmergencyBarrier"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 171 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ExtCapacitorBattary"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ResistShieldKin"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ResistShldThermal"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveForceField"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AddShldGen"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PulsarShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 465 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CuttedShieldHolder"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldHealOnEnemyDeath"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"856 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenRegenShield"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"974 1054 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BinaryHardener"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SafeSpecial"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RebalancedDefense"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldAdaptation"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"297 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveFire"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"926 884 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldRecycler"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"129 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdditionalShield"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"462 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HackOver"
+	fileName	"ui\textures\ico\active_mod_icon_2"
+	rect		"1053 794 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ProtectiveFire"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 76 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DisintegaratorBoost"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DroneBuffer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PassiveOvercharge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 884 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RotSpeedOnMdlActivation"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 884 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CritChecker"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnemyInfoCheck"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HackAimingProtocol"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnemyActiveSuppression"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"842 842 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShellRestoration"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"926 758 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DeimosRageOnEnemy"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"800 758 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_DoomBoost"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 464 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AxeShot"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"971 4 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_MacheteCuttingEdge"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PrometheusFire"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ChainLaser"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"507 421 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_JerichoTrumpets"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ZoneCleaner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PrimaryNanoRobots"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"467 417 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHealNormal"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Fly_4"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"139 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_OrbGun"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"87 42 43 43"
+}
+
+Texture
+{
+	name		"ItemSubtype_DestrResonatingLaser"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"856 291 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SparksCannon_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SparksCannon_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ColdRay"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ColdRay_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ColdRay_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ColdRay_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ColdRay_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunHeavy"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunHeavy_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunHeavy_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunHeavy_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartRL"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartRL_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartRL_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartRL_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartRL_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Minigun"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Radiation_Beam_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Radiation_Beam_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Radiation_Beam_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Radiation_Beam_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Radiation_Beam_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NanobotsCloud"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NanobotsCloud_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NanobotsCloud_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NanobotsCloud_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NanobotsCloud_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SWGift"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"341 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBlaster"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 312 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBlaster_2"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 312 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBlaster_3"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 312 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBlaster_4"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 312 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBlaster_5"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 312 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FrontReaperGun"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ForkLaserLight"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SparksCannon"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BubbleGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_1"
+	rect		"971 1 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CorrosiveGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_1"
+	rect		"1050 1 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CrystalBuckshotGun"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"897 166 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaBlade"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ForkLaser"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"382 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CrystallSparks"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"421 271 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeatingGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_1"
+	rect		"1048 74 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserConeHeal"
+	fileName	"ui\textures\ico\weapons_mod_icon_1"
+	rect		"971 150 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunBasic_Prem"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunBasic_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunBasic_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunBasic_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBasic_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBasic_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuppressingFire"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"336 230 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuppressingFire_2"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"336 230 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuppressingFire_5"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"336 230 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunSniper"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunSniper_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomic"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomic_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomic_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaSplash"
+	fileName	"ui\textures\ico\weapons_mod_icon_1"
+	rect		"1048 586 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunBasic_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunBasic_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBasic_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserBasic_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuppressingFire_3"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"336 230 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuppressingFire_4"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"336 230 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunSniper_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunSniper_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomic_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomic_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunBasic"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunBasic_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunBasic_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunAutofire"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunAutofire_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserSniper"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserSniper_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserSniper_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserSniper_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunAutofire_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"295 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunAutofire_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"295 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunAutofire_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"295 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Phaser_3"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"170 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Phaser_4"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"170 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunHeavy"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunHeavy_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHeavy"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHeavy_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHeavy_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunSniper"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Fly"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"139 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunBasic_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunBasic_5"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserSniper_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunAutofire"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"295 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunAutofire_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"295 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Phaser"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"170 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Phaser_2"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"170 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunHeavy_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuddenFire"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHeavy_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHeavy_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"379 295 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Fly_2"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"139 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Fly_3"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"139 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunAutofire_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaHunterGun"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaGuard"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MirvRocket"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_NanobotsCritAdaptive"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserVUX"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ForkLaserFoxM"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 297 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MacheteSmartRL2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ZhenGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"1129 74 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpikeOnSpeedLaser"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaCompressor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_InterferentPlasmaEmitter"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BlastWeaponDestructor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnergyBlaster"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CritPlasmaWolfM"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunHeavy_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CorrosiveGunScout"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHeal"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"674 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LengtheningBeam"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"507 421 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_OverheatingLaser"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpacetimeAnomaly"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"213 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Minigun_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Minigun_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunDestr_1"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 271 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunDestr_2"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 271 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunDestr_3"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"294 271 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PirateRail"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpyDroneRailgun"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"568 289 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KineticFloatingCrit"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"897 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailVolcano"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 398 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailVolcano_1"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 398 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailVolcano_2"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 398 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailVolcano_3"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 398 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailVolcano_4"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 398 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenHealRailgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"1053 783 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenHealRailgun_1"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"1053 783 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenHealRailgun_2"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"1127 783 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenHealRailgun_3"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"974 853 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScrapAttractor"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"1051 853 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScrapAttractor_1"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"1051 853 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScrapAttractor_2"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"1125 853 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScrapAttractor_3"
+	fileName	"ui\textures\ico\weapons_mod_icon_4"
+	rect		"974 921 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunSniper_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunSniper_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunSniper_3"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_OrbGun_3"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"87 42 43 43"
+}
+
+Texture
+{
+	name		"ItemSubtype_OrbGun_2"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"87 42 43 43"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunEnergy"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 71 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaVolley"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"973 73 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AcceleratedAmplifyer"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"674 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WeaknessScoutPlasma"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"974 210 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunSniper_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KineticCDRbyCrit"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"733 249 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FrontLineCannon"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Grab"
+	fileName	"ui\textures\ico\weapons_mod_icon_3"
+	rect		"1128 211 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenGravityAnomaly"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"607 250 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ElectricPotentialInductor"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"896 289 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LastHope"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Suicide"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AchillesTargetingUnit"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldEmitter"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"253 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShelterField"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"717 87 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PairsShel"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"970 320 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HullTransfer"
+	fileName	"ui\textures\ico\active_mod_icon_1"
+	rect		"974 219 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunHeavy_4"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdaptiveDefense"
+	fileName	"ui\textures\ico\passiv_mod_icon_9"
+	rect		"975 143 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FlameThrower"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 214 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SingularityStriker"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"973 284 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_EMIMine"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"591 629 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LossOfSignatures"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 147 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CivilianRepair"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CommandShieldResist"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Teleporter"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"254 230 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WeaponCoolant"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"632 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Lynx2Shield"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"462 86 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SubMatterShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"380 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ResistHullThermal"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"380 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ResistHullEMP"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 44 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ArmorPlates"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"506 171 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BattleScanner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"43 171 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ProtonWall"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScoutScanner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_TurboScanner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_WideScanner"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"380 633 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CrystalRageMode"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"816 124 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CollisionComp"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"548 128 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ExternalCooler"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"760 87 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenRotationThruster"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"1124 352 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenDoomBoost"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"1054 283 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SystemsRecharger"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"1052 143 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CoProcessor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 632 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenAcceleration"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"973 350 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenBoostOptimizer"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"974 912 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_EmergencyJump"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"973 422 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenIdleSpeed"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"1051 422 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenJumpOnStrafe"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"977 984 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeavyArmor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CompositeArmor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ScrapProductBoost"
+	fileName	"ui\textures\ico\passiv_mod_icon_2"
+	rect		"1127 142 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_MovementDamageBuff"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"610 290 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EngineGenerator"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CapacitorCooldown"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldExtender"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 171 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LightArmor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PassiveArmor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RotationThruster"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_KnowledgeEnemyCPU"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"338 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunAutofire_2"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunHeavy_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunSniper_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Minigun_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunBasic_1"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Phaser_1"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"170 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_FunnyDoubleMissile"
+	fileName	"ui\textures\ico\weapons_mod_icon_1"
+	rect		"1117 73 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FotonVortex"
+	fileName	"ui\textures\ico\active_mod_icon_4"
+	rect		"1044 772 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DeimosWarp"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"974 218 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PowerInstabilityShot"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1130 144 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SafeSniper"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1050 218 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Cryolaser"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BallLauncher"
+	fileName	"ui\textures\ico\active_mod_icon_1"
+	rect		"974 870 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FootballSecondBreath"
+	fileName	"ui\textures\ico\active_mod_icon_1"
+	rect		"1114 871 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenPlatform"
+	fileName	"ui\textures\ico\passiv_mod_icon_7"
+	rect		"1050 778 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CooldownDownOnEnemyDeath"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_InfoBarrier"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 716 40 40"
+}
+
+Texture
+{
+	name		"football_craft_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"976 1130 70 70"
+}
+
+Texture
+{
+	name		"football_cup_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"1061 1126 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeraldPlasma"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 284 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_KineticStkBomb"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"590 548 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EnginePowerRedistributor"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AttrackerField"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"420 356 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_MagneticGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 354 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PiligrimShield2Speed"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"129 3 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmokeRocket"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1050 288 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_LandingPlatform"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1128 288 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SwarmControl"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"974 362 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenFastProjectile"
+	fileName	"ui\textures\ico\passiv_mod_icon_9"
+	rect		"1052 356 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SwarmCloud"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1128 351 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaBursts"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 424 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CageJump"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1128 362 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DevastatorGun"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 432 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BFG"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1049 363 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailActiveSuppressor"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"897 207 40 40"
+}
+
+Texture
+{
+	name		"Module_AprilDrone_Pizza"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1052 434 70 70"
+}
+
+Texture
+{
+	name		"hunger_craft_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"1129 558 70 70"
+}
+
+Texture
+{
+	name		"hunger_cup_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"1127 632 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmagunSniper_Pirate"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunSniper_Pirate"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunAutofire_Pirate"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ChargedBlast"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1128 494 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ComboRestore"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1131 433 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Stealth"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"974 507 70 70"
+}
+
+Texture
+{
+	name		"race2_l_t5_craftuniq_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_9"
+	rect		"1054 851 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DeathSwarm"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"981 912 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SwarmRocket"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1126 348 70 70"
+}
+
+Texture
+{
+	name		"status_HID_IN_FOG"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1051 506 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CookCannon"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1130 507 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_LoudEcho"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 564 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DetectionBeacon"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 577 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BigCannon"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"977 249 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartRL_ny_17"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1128 564 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SuppressingFire_ny_17"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 634 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Minigun_ny_17"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1051 635 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomic_Unique2"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 635 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Weapon_AlienGun_Prec"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1057 418 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Weapon_ReaverGun_Prec"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 711 70 70"
+}
+
+Texture
+{
+	name		"Module_EnergyLance_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1052 577 70 70"
+}
+
+Texture
+{
+	name		"Module_PlasmaWeb_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1130 577 70 70"
+}
+
+Texture
+{
+	name		"Module_Camouflage_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 647 70 70"
+}
+
+Texture
+{
+	name		"Module_FakeShips_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1052 650 70 70"
+}
+
+Texture
+{
+	name		"Module_Pulsar_Prec_M"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1129 649 70 70"
+}
+
+Texture
+{
+	name		"Module_WolfPack_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 717 70 70"
+}
+
+Texture
+{
+	name		"Module_Cloaking_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1049 720 70 70"
+}
+
+Texture
+{
+	name		"Module_MultiPortal_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1129 721 70 70"
+}
+
+Texture
+{
+	name		"Module_StasisGun_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"972 792 70 70"
+}
+
+Texture
+{
+	name		"Module_TRay_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1049 792 70 70"
+}
+
+Texture
+{
+	name		"Module_HackWeapon_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1129 794 70 70"
+}
+
+Texture
+{
+	name		"Module_EntityRay_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 862 70 70"
+}
+
+Texture
+{
+	name		"Module_RocketSilo_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1049 864 70 70"
+}
+
+Texture
+{
+	name		"Module_GravyGenerator_Prec"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1130 864 70 70"
+}
+
+Texture
+{
+	name		"Module_JumpForward_Prec"
+	fileName	"ui\textures\ico\passiv_mod_icon_6"
+	rect		"1052 915 70 70"
+}
+
+Texture
+{
+	name		"Module_EnemyScanner_Prec"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1126 70 70 70"
+}
+
+Texture
+{
+	name		"Module_BuffLowHealth_75_Prec"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1126 908 70 70"
+}
+
+Texture
+{
+	name		"Module_BuffLowHealth_50_Prec"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1127 837 70 70"
+}
+
+Texture
+{
+	name		"Module_BuffLowHealth_25_Prec"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"1051 909 70 70"
+}
+
+Texture
+{
+	name		"SpaceMissile_MagnetMine_Prec"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1053 711 70 70"
+}
+
+Texture
+{
+	name		"GuidedDrone_Alien2D_Prec"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1128 709 70 70"
+}
+
+Texture
+{
+	name		"DestrMunition_SectorShield_Prec"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"973 781 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PortalGate"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 938 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SphereShield"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1051 937 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Nanobots_Heal_Bonus"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomic_Prem"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 338 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_Weapon_PaperGun_L"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1128 851 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Weapon_PaperGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1048 851 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShieldHeal"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 925 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdvancedHeal"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1045 135 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DistStation"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1128 938 70 70"
+}
+
+Texture
+{
+	name		"race1_l_t5_craftspec_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 212 70 70"
+}
+
+Texture
+{
+	name		"race1_l_t5_craftspec_part_small_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1128 142 70 70"
+}
+
+Texture
+{
+	name		"race1_l_t5_sniper_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 212 70 70"
+}
+
+Texture
+{
+	name		"race1_l_t5_sniper_part_small_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1128 215 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FreezingSniper"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"896 694 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AdvancedZoom"
+	fileName	"ui\textures\ico\passiv_mod_icon_2"
+	rect		"1052 1055 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DoubleThermalBlastgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 922 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserEconomicPirate"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"464 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RailgunHeavyPirate"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 296 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHeavyPirate"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1128 993 70 70"
+}
+
+Texture
+{
+	name		"race3_m_t5_craftuniq_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 282 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReserveShipSwitch"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"897 786 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReserveShipOrder"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"896 862 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReserveShipOrder2"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"896 938 70 70"
+}
+
+Texture
+{
+	name		"status_RSS_RESPAWN_COOLDOWN"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"896 1008 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReserveShipOrder3"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 1008 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReserveShipOrder4"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1052 1011 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReserveShipOrder5"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1129 1012 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ReserveShipOrder6"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 1081 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ActiveTimeBoost"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"36 1112 120 120"
+}
+
+Texture
+{
+	name		"ItemSubtype_HarpoonGun"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1049 1088 70 70"
+}
+
+Texture
+{
+	name		"status_ROPE_TTL"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1129 1088 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RavenGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"973 1062 70 70"
+}
+
+Texture
+{
+	name		"race3_l_t5_craftspec_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_4"
+	rect		"973 849 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Module_ZM_Humans_Passive"
+	fileName	"ui\textures\ico\passiv_mod_icon_8"
+	rect		"975 702 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Module_ZM_Humans_Heal"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 1157 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Module_ZM_Aliens_Pulsar"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1050 1159 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Module_ZM_Humans_SpeedUp"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1130 1158 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Module_ZM_Aliens_Slowdown"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"973 1234 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_TornadoGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1053 1062 70 70"
+}
+
+Texture
+{
+	name		"race2_h_t5_relic_part _ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1053 283 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DoubleEmpShotgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 1061 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RelicGun"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"897 207 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_RocketMine"
+	fileName	"ui\textures\ico\active_mod_icon_7"
+	rect		"1051 1236 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_MoleGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1050 1137 70 70"
+}
+
+Texture
+{
+	name		"race1_h_t5_relic_uniq_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1128 285 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_OmegaB"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 1142 70 70"
+}
+
+Texture
+{
+	name		"EmperorsRobe_power_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 352 70 70"
+}
+
+Texture
+{
+	name		"EmperorsRobe_circle_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1054 357 70 70"
+}
+
+Texture
+{
+	name		"race2_l_t5_protozan_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 427 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ProtozanBlaster"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 1212 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Gleipnir"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1052 1214 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ThorHammer"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"1129 1212 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ThorStasis"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1053 428 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PlasmaWebLaser"
+	fileName	"ui\textures\ico\weapons_mod_icon_5"
+	rect		"972 1289 70 70"
+}
+
+Texture
+{
+	name		"race3_h_t5_albiero_uniq_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1127 427 70 70"
+}
+
+Texture
+{
+	name		"TreasurePice_Fake_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"1130 764 70 70"
+}
+
+Texture
+{
+	name		"TreasurePice_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"1128 840 70 70"
+}
+
+Texture
+{
+	name		"TreasureMap_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_1"
+	rect		"1128 699 70 70"
+}
+
+Texture
+{
+	name		"race2_m_t5_craftuniq_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"976 499 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Hammer"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"974 4 70 70"
+}
+
+Texture
+{
+	name		"race2_s_t5_uniq_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 499 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SmartShotgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1045 3 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SpecialRestore"
+	fileName	"ui\textures\ico\passiv_mod_icon_9"
+	rect		"975 782 70 70"
+}
+
+Texture
+{
+	name		"race3_m_t5_uniq_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"976 569 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ThrasherActive"
+	fileName	"ui\textures\ico\active_mod_icon_8"
+	rect		"1129 72 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ThrasherGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1118 3 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DoubleThermalShotgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"974 73 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_Snowfall"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 574 70 70"
+}
+
+Texture
+{
+	name		"race1_m_t5_typhon_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1126 498 70 70"
+}
+
+Texture
+{
+	name		"race2_m_t5_craftuniq_part_small_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1128 569 70 70"
+}
+
+Texture
+{
+	name		"race3_m_t5_craftuniq_part_small_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 639 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_StormGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1046 74 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_TyphonGun"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 296 40 40"
+}
+
+Texture
+{
+	name		"race1_h_t5_relic_uniq_small_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 643 70 70"
+}
+
+Texture
+{
+	name		"race2_l_t5_Dino_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 713 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DinoGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"974 148 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SeeressGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1046 148 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeliconGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1119 148 70 70"
+}
+
+Texture
+{
+	name		"HeliconModule_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1128 641 70 70"
+}
+
+Texture
+{
+	name		"HeliconCorpse_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 713 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BaphometGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"974 222 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_LaserHadrian"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1046 222 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DragonFlashRangeMaster"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1128 714 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_DragonAdaptiveForceShield"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 590 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SalamanderNailgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1118 222 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ManulPlasmaGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"975 293 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeartAttack"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1045 293 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenCommanderEmergency"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 784 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenCommanderHullRep"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"651 166 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenCapFirerate"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s6"
+	rect		"129 294 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_BarkCanon"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1115 293 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenArtillery"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"976 370 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenFastShotgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1047 370 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenSphereGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1118 370 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_TurnGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"976 441 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ShrikeCrit"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 855 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FireBallThrower"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1047 441 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PilumSpecialDamage"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1127 855 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PsiloiSafeEngine"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_PsiloiAutoEmergency"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 926 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeliAntiRadar"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1127 926 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeliAccelerationCoil"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 996 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PsiloiTurboFaser"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1119 441 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HeliRoid"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"975 514 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BashePassive1"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 996 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BashePassive2"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1127 996 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BasheGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1047 514 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PerseiGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1119 514 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PerseiPassive1"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"976 1069 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_PerseiPassive2"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 1069 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CorVulnusCPU"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"757 800 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_EngineGeneratorCorVulnus"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"254 674 40 40"
+}
+
+Texture
+{
+	name		"Ship_Race5_L_GUARD_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 1139 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BenGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"975 584 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FrostRay"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1047 584 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_RocketGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1119 584 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HellasKinetLaser"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"976 654 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HellasCPU"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"296 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_HellasHull"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"2 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GG_HullBlast"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"422 886 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GG_ShellOvercharge"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1126 1209 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GG_CamoCPU"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"774 166 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_GG_RocketRing"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1048 654 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GG_BubbleGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1120 654 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BarkArmor"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 1280 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_BarkCPU"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"816 290 40 40"
+}
+
+Texture
+{
+	name		"Ship_Race5_M_T5_Amber_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"976 1350 70 70"
+}
+
+Texture
+{
+	name		"Ship_Race2_L_T1_Exorcist_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 1350 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AmberCPU"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AmberShield"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"212 449 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AmberSlowGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"976 724 70 70"
+}
+
+Texture
+{
+	name		"Ship_Race2_S_T5_Cinquedea_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1049 1420 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CinquedeaPlasmaGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1048 724 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CinquedeaEng"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1126 1420 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CinquedeaCap"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 1490 70 70"
+}
+
+Texture
+{
+	name		"Ship_Race2_L_T5_Carolingian_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1049 1490 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AtlantaCPU_emp"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"170 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AtlantaCPU_kinet"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"44 380 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AtlantaCPU_thermal"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"128 380 40 40"
+}
+
+Texture
+{
+	name		"Ship_Race5_S_T5_Ace_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1126 1560 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AceCPU"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"212 674 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AceEngine"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"379 187 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AceGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1120 724 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CarolCannon"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"974 795 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AtlantaCapWeapon"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1126 1630 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AtlantaCapRocket"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 1700 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AtlantaCapModuleDmg"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1049 1700 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CarolShield"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s5"
+	rect		"582 254 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CarolHull"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"212 449 40 40"
+}
+
+Texture
+{
+	name		"Ship_Race5_H_Saturn_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1049 1770 70 70"
+}
+
+Texture
+{
+	name		"Ship_Race5_H_Saturn_cab_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1126 1770 70 70"
+}
+
+Texture
+{
+	name		"Ship_Race5_M_T5_Apeiron_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"976 1840 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_UballShield"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"378 60 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_UballHull"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"379 102 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_UballFWarrior"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1049 796 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SaturnChargableGun"
+	fileName	"ui\textures\ico\weapons_mod_icon_6"
+	rect		"1120 796 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_SaturnEngine"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"86 716 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_SaturnHull"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"979 208 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_AthlantaBall"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"972 14 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AthlantaBlaster"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"1045 14 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AthlantaRail"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"972 84 70 70"
+}
+
+Texture
+{
+	name		"Ship_Race1_S_T5_CorLegibus_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1124 1917 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CorV2CPU"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"757 800 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_CorV2Cap"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1052 1987 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_CorV2_SmartRL"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"1045 84 70 70"
+}
+
+Texture
+{
+	name		"Ship_Race5_S_RECON_part_ico"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1122 1987 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FireGunBall"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"972 154 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_FreezeGunBall"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"1045 154 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_AsteridGunBall"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"972 224 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_HealGunBall"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"1045 224 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GREmergrncy"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"975 2065 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GRJumpDrive"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1049 2065 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GRForceField"
+	fileName	"ui\textures\ico\passiv_mod_icon_10"
+	rect		"1124 2066 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenReconShotgun"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"1121 12 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_GreenReconBlaster"
+	fileName	"ui\textures\ico\weapons_mod_icon_7"
+	rect		"1121 82 70 70"
+}
+
+Texture
+{
+	name		"ItemSubtype_ChaosHull"
+	fileName	"ui\textures\interation_2\textures_s2\item_icon_s2"
+	rect		"774 412 40 40"
+}
+
+Texture
+{
+	name		"ItemSubtype_ChaosCPU"
+	fileName	"ui\textures\interation_2\item_icon"
+	rect		"421 716 40 40"
+}
+

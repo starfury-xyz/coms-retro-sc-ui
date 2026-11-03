@@ -1,0 +1,86 @@
+﻿source_file "Y:/art/source/ui/graphics/equip/equip.ma"
+//by sergey_mitryaev
+//at Thu Oct 31 17:02:37 2019
+
+base_res 1920 1080
+
+animations 1
+{
+	anim idle
+	{
+		mode looped
+		cycle_time 20
+	}
+}
+
+total_elements 5
+
+objects 5
+{
+	object ship_list_slot_1
+	{
+		defaults
+		{
+			pos 0 -0
+			opacity 255
+			color 0xffffffff
+			size 140 90
+			effect "ui\graphics\hangar\ship_slot_1080\ship_list_slot"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object ship_list_slot_2
+	{
+		defaults
+		{
+			pos 0 90
+			opacity 255
+			color 0xffffffff
+			size 140 90
+			effect "ui\graphics\hangar\ship_slot_1080\ship_list_slot"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object ship_list_slot_3
+	{
+		defaults
+		{
+			pos 0 180
+			opacity 255
+			color 0xffffffff
+			size 140 90
+			effect "ui\graphics\hangar\ship_slot_1080\ship_list_slot"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object ship_list_slot_4
+	{
+		defaults
+		{
+			pos 0 270
+			opacity 255
+			color 0xffffffff
+			size 140 90
+			effect "ui\graphics\hangar\ship_slot_1080\ship_list_slot"
+			alignment "LT"
+		}
+		visible_on idle
+	}
+	object self
+	{
+		defaults
+		{
+			pos 0 -0
+			opacity 255
+			color 0xffffffff
+			size 140 360
+			effect ""
+			alignment "LT"
+		}
+		visible_on idle
+	}
+}
+

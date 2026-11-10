@@ -156,7 +156,7 @@ objects 18
 	{
 		defaults
 		{
-			anchor "BC"
+			anchor "CM"
 			pos 738 251
 			opacity 255
 			color 0xffffffff
@@ -171,7 +171,7 @@ objects 18
 	{
 		defaults
 		{
-			anchor "BC"
+			anchor "LM"
 			pos 25 400
 			opacity 255
 			color 0xffffffff
@@ -185,7 +185,7 @@ objects 18
 	{
 		defaults
 		{
-			anchor "BC"
+			anchor "LM"
 			pos 628 1022
 			opacity 255
 			color 0xffffffff
@@ -241,13 +241,13 @@ objects 18
 	{
 		defaults
 		{
-			anchor "RB"
+			anchor "CB"
 			pos 411 800
 			opacity 255
 			color 0xffffffff
 			size 218 600
 			effect "ui\graphics\equip_1080\passiv_slots_main"
-			alignment "RM"
+			alignment "CM"
 		}
 		visible_on idle
 	}

@@ -22,3 +22,7 @@ In other words, it's shameless nostalgia bait that's familiar enough to where yo
 - Took some *creative liberties in deciding which new modules should map to what old icons, some unused, some reused. I'm aware this might get confusing.*
 
 For information and inquiries go to ComwpODG (comwp) on discord.
+
+# v2 update
+- Now includes module cooldowns, look at this beautiful shit
+<img width="447" height="128" alt="image" src="https://github.com/user-attachments/assets/8a8962a8-7b02-4986-a05b-64fd4c580539" />

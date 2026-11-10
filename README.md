@@ -26,3 +26,7 @@ For information and inquiries go to ComwpODG (comwp) on discord.
 # v2 update
 - Now includes module cooldowns, look at this beautiful shit
 <img width="447" height="128" alt="image" src="https://github.com/user-attachments/assets/8a8962a8-7b02-4986-a05b-64fd4c580539" />
+
+# v3 update
+- Now includes support for _weird monitor sizes_
+<img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/c6852774-6d76-4f9c-a66a-a3ee39f0e752" />

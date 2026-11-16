@@ -1,7 +1,9 @@
 # coms-retro-sc-ui
--# This readme and mod was made by a REAL DUDE, NO AI was utilized in the act of programming of this feature set, and that's why it's minimal as hell and gets the job done correctly.
+- ### This readme and mod was made by a REAL DUDE, NO AI was utilized in the act of programming of this feature set, and that's why it's minimal as hell and gets the job done correctly.
 Miss the old days of Star Conflict? we do too; let's relive them.
+
 <img width="1920" height="1076" alt="sample" src="https://github.com/user-attachments/assets/7474de7c-48b2-4157-8b0a-4591196130a4" />
+
 # What does this do?
 This attempts to give the retro feeling of Star Conflict without jumbling **too much** of the UI around.
 In other words, it's shameless nostalgia bait that's familiar enough to where you can still play the game without massively questioning your life choices.
